@@ -1,4 +1,4 @@
-본 글에서 사용한 여러 설정은 
+본 글에서 사용한 내용/ 여러 설정은 
 Ryan Sheehan의 MIT 라이선스 프로젝트를 기반으로 복사/수정 되었습니다. https://github.com/ryansheehan/terraria
 
 
