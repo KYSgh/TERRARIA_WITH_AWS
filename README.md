@@ -1,3 +1,14 @@
+본 글에서 사용한 여러 설정은 
+Ryan Sheehan의 MIT 라이선스 프로젝트를 기반으로 복사/수정 되었습니다. https://github.com/ryansheehan/terraria
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Terraria
 
 This project is a Dockerfile to containerize [TShock][TShock] and [Terraria Server](https://terraria.org/) TerrariaServer.exe to run on linux.  [Docker][Docker] will remove the need for someone to worry about how to setup a server in linux with all the right dependencies to run.  The installation and usage instructions are written with complete beginners in mind.
