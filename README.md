@@ -94,7 +94,8 @@ Assuming [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) an
 1. Clone this repository
 
     ```bash
-    git clone https://github.com/ryansheehan/terraria.git
+    git clone https://github.com/KYSgh/TERRARIA_WITH_AWS.git
+
     ```
 
 2. Open a terminal window into the directory downloaded by the git
